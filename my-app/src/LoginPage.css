@@ -1,0 +1,21 @@
+/* src/components/LoginPage.css */
+
+.container {
+    margin-top: 50px;
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  /* Styling for navigation link */
+  p > a {
+    color: #007bff;
+    text-decoration: none;
+    cursor: pointer;
+  }
+  
+  p > a:hover {
+    text-decoration: underline;
+  }
+  
